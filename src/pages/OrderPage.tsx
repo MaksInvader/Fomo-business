@@ -140,9 +140,8 @@ const OrderPage = () => {
           return null;
         }
 
-        const quantityValue =
-          typeof item.quantity === 'number' && Number.isFinite(item.quantity) ? item.quantity : 0;
-        const safeQuantity = Math.max(quantityValue, 0);
+        const rawQuantity = Number(item?.quantity ?? 0);
+        const safeQuantity = Number.isFinite(rawQuantity) ? Math.max(rawQuantity, 0) : 0;
 
         return {
           key: `${item.itemId}-${index}`,
