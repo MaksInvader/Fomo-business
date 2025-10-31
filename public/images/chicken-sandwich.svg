@@ -1,0 +1,10 @@
+<svg width="320" height="240" viewBox="0 0 320 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="240" rx="32" fill="#FFF8E7"/>
+  <rect x="48" y="64" width="224" height="112" rx="28" fill="#FFD644"/>
+  <rect x="60" y="76" width="200" height="88" rx="22" fill="#FFE690"/>
+  <ellipse cx="100" cy="116" rx="36" ry="28" fill="#FF6B6B"/>
+  <ellipse cx="158" cy="124" rx="52" ry="36" fill="#F2A45F"/>
+  <ellipse cx="212" cy="116" rx="44" ry="28" fill="#47B881"/>
+  <path d="M60 144H260" stroke="#2F3A3D" stroke-width="12" stroke-linecap="round" stroke-opacity="0.2"/>
+  <text x="160" y="210" text-anchor="middle" font-family="Baloo 2, sans-serif" font-size="24" fill="#2F3A3D">Chicken Classic</text>
+</svg>
