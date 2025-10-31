@@ -173,7 +173,7 @@ const HomePage = () => (
             <li>🥗 Locally sourced produce with zero sogginess.</li>
           </ul>
           <p className="mt-6 rounded-3xl bg-white/20 px-4 py-3 text-center font-semibold">
-            “Hands down the cutest sandwich drop in town!” — Yani, Jakarta
+            “Hands down the cutest sandwich drop in town!” — Yani, Bojongsoang
           </p>
         </div>
       </div>

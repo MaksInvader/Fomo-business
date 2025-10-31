@@ -18,7 +18,7 @@ const Footer = () => (
           </div>
         </div>
         <p className="text-sm leading-6 text-brand-charcoal/80">
-          Crafted with love in Jakarta. Every sandwich is made-to-order with locally sourced ingredients
+          Crafted with love in Telkom University. Every sandwich is made-to-order with locally sourced ingredients
           so you never miss out on the tastiest bite.
         </p>
       </div>
